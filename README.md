@@ -26,13 +26,17 @@
 <img alt="Mongodb" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/mongodb.svg" />
 </code>](https://www.mongodb.com/)   
 
-<h4> IDEs/Tools used </h4>
+<h4> IDEs </h4>
 
 [<code>
 <img alt="intellij idea" width="35px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)    [<code>
 <img alt="eclipse" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/eclipseide.svg" />
-</code>](https://www.eclipse.org/ide/)   [<code>
+</code>](https://www.eclipse.org/ide/)   
+
+<h4> Tools </h4>
+
+[<code>
 <img alt="postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 </code>](https://www.postman.com/)       [<code>
 <img alt="sonarQube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/sonarqube.svg" />
