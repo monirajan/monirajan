@@ -13,7 +13,7 @@
 <h4> Framework </h4>
 
 [<code>
-<img alt="spring" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/spring.svg">
+<img alt="spring" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
 </code>](https://spring.io/projects/spring-framework)
 
 <h4> Database </h4>
@@ -33,17 +33,23 @@
 </code>](https://www.jetbrains.com/idea/)    [<code>
 <img alt="eclipse" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/eclipseide.svg" />
 </code>](https://www.eclipse.org/ide/)   [<code>
-<img alt="postman" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/postman.svg" />
+<img alt="postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 </code>](https://www.postman.com/)       [<code>
 <img alt="sonarQube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/sonarqube.svg" />
 </code>](https://www.sonarqube.org/)
+[<code>
+<img alt="circleCi" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" />
+</code>](https://circleci.com/)
+[<code>
+<img alt="Docker" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+</code>](https://www.docker.com/)
 
 <h4> SCM </h4>
 
 [<code>
 <img alt="Git" width="35px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)       [<code>
-<img alt="BitBucket" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/bitbucket.svg" />
+<img alt="BitBucket" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" />
 </code>](https://bitbucket.org/)
 
 <h4> Operating System </h4>
